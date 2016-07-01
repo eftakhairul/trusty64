@@ -33,7 +33,7 @@ vagrant provision
 
 Add IP to your local /etc/host once in developing life circle
 ```sh
-echo "192.168.33.10   local.backend.snaplabs.io" >> /etc/hosts
+echo "192.168.33.10   local.backend" >> /etc/hosts
 ```
 
 
