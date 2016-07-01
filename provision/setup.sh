@@ -3,7 +3,7 @@
 echo "Provisioning virtual machine..."
 
 echo "Installing PHP extensions"
-apt-get install curl php5-gd php5-mcrypt php5-mysql -y > /dev/null
+apt-get install curl php7.0-mysql -y > /dev/null
 
 echo "Installing debconf-utils"
 apt-get install debconf-utils -y > /dev/null

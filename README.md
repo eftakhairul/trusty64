@@ -4,12 +4,12 @@ Vagrant Box trusty64
 A standard Ubuntu 14.04 LTS 64 bit box. It has pre-installed nginx, php7.0 and some other php extentions 
 
   - PHP 7.0
-  - Apache 2
+  - Nginx
   - MySQL (By running provision)
   - curl
   - GIT
   - Composer
-  
+  - PHP extentions: php7.0-fpm  php7.0-mysql php7.0-cli php7.0-curl php7.0-gd php7.0-intl php7.0-xml php7.0-xmlrpc php7.0-mcrypt php7.0-mbstring php7.0-zip  
 
 How Download and Install Vagrant
 -----------
