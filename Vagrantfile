@@ -6,7 +6,7 @@ VAGRANTFILE_API_VERSION = "2"
 
 Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   # vagrant box
-  config.vm.box = "ubuntu/trusty64"
+  config.vm.box = "eftakhairul/trusty64"
 
   # `vagrant box outdated`. This is not recommended.
   # config.vm.box_check_update = false
