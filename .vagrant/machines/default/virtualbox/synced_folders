@@ -1,1 +1,0 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/eftakhairul/codes/vagrant/trusty","disabled":false},"/var/www":{"create":true,"group":"www-data","owner":"www-data","guestpath":"/var/www","hostpath":"/home/eftakhairul/codes/vagrant/trusty","disabled":false}}}
